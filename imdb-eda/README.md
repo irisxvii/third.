@@ -4,7 +4,8 @@ This project uses the IMDB dataset to perform data preprocessing, exploratory da
 ## Dataset
 The analysis uses the IMDB datasets:
 
-``` title.basics.tsv
+```
+title.basics.tsv
 title.ratings.tsv
 ```
 downloaded using KaggleHub
@@ -22,12 +23,15 @@ downloaded using KaggleHub
 - Analyzed distributions and trends in movie ratings and release years.
 
 ## Basic Analysis and Visualizations
-- Histogram of average movie ratings.
-![histogram](image.png)
-- Scatter plot of number of votes vs average rating.
-![scatter plot](image-2.png)
-- Line plot showing number of movies released per year.
-![line plot](image-1.png)
+- Histogram of average movie ratings.</br>
+
+![histogram](assets/image.png)
+- Scatter plot of number of votes vs average rating.</br>
+
+![scatter plot](assets/image-2.png)
+- Line plot showing number of movies released per year.</br>
+
+![line plot](assets/image-1.png)
 - Identified top-rated movies with a minimum vote threshold.
 
 ## Tools Used
